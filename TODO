@@ -1,0 +1,31 @@
+Geral:
+  ✔ configurar servidor @done(23-08-24 22:33)
+Rotas:
+  Pet:
+    Prisma:
+      ✔ Model pet @done(24-08-22 23:58)
+    CRUD:
+      ✔ CREATE @done(24-08-23 23:55)
+      ✔ READ @done(24-08-24 00:54)
+      ✔ UPDATE @done(24-08-24 00:54)
+      ✔ DELETE @done(24-08-24 00:54)
+    ✔ Rota @done(24-08-24 01:28)
+
+  Usuário: 
+    Prisma:
+      ✔ Model usuário @done(24-08-22 23:58)
+    CRUD:
+      ✔ CREATE @done(24-08-23 22:43)
+      ✔ READ @done(24-08-23 23:10)
+      ✔ UPDATE @done(24-08-23 22:47)
+      ✔ DELETE @done(24-08-23 23:10)
+    ✔ Rota usuário @done(24-08-23 23:13)
+
+  Consultas:
+    ✔ Model consulta @done(24-08-23 15:16)
+    CRUD:
+      ✔ CREATE @done(24-08-24 02:06)
+      ✔ READ @done(24-08-24 01:40)
+      ✔ UPDATE @done(24-08-24 02:00)
+      ✔ DELETE @done(24-08-24 02:04)
+    ✔ Rota @done(24-08-24 02:10)
